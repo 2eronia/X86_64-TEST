@@ -35,7 +35,7 @@ env:
   UPLOAD_FIRMWARE: false
   UPLOAD_RELEASE: true
   TZ: Asia/Shanghai
-  FILE_NAME: upstream_ImmortalWRT__autocompile
+  FILE_NAME: autocompile_forSomeIPKs
 
 jobs:
   build:
